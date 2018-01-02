@@ -39,6 +39,9 @@
     ".video-item-image-overlay": {
       "video_item_image_overlay_background_color": "rgba(255, 0, 61, 0.35)"
     },
+    ".video-item-image-overlay:hover": {
+      "visibility": "visible"
+    },
     ".widget-modal-body": {
       "widget_modal_body_background_color": "black",
       "widget_modal_body_border": "5px solid yellow"
